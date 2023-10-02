@@ -1,0 +1,45 @@
+#: locale=pt
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_E29BD6D9_F07B_E1F0_41D4_F62A1E0A0F0F.toolTip = 14º Andar \
+Elevador privativo
+
+## Media
+
+### Title
+panorama_FAC06C51_F057_A116_41E7_EBC33408F63F.label = Corredor
+panorama_E47BF523_F1BD_A06E_41B3_C3972AA66401.label = Cozinha
+panorama_FAC3118F_F057_630A_41E7_2B1B8C753683.label = Elevador
+panorama_FAC338B9_F057_6116_41D6_54F80DBCE084.label = Entrada
+panorama_FAC36FF3_F054_9F1A_41C6_8F302936966A.label = Escritório
+panorama_FAFE87A0_F054_AF36_41E5_CB6B59700C06.label = Espaço Gourmet
+panorama_FAFEFF3E_F054_BF0A_41E0_02390406C355.label = Lavabo
+panorama_FAFE86A3_F054_A13A_41D1_7011FE38FBD7.label = Lavabo_
+panorama_E41E23E8_F1B4_E7FF_41D5_3553FCF6B126.label = Sala
+panorama_FAFE7B39_F054_E716_41E7_7F79DB9EC2EC.label = Sala Jantar
+panorama_FAFE5A3B_F054_A10B_41C2_A022D594991E.label = Sala_
+panorama_FAFE1DAC_F057_E30D_41E0_41662B71FCF1.label = Suíte 1 - Banheiro
+panorama_FAC394FF_F057_A10A_41ED_3D0DA0589E32.label = Suíte 1 - Closet
+panorama_E878EAE4_F1EF_E00F_41DD_1E3432D91DAA.label = Suíte 1 - Hidro e Closet
+panorama_E6730846_F1DF_E01C_41CE_D6DE767F6940.label = Suíte 1_hidro
+panorama_FAFE8400_F054_E0F5_41E4_97E3E0BC087C.label = Suíte 2
+panorama_FCDEB5B2_F057_E315_41E3_25DCCDAB602B.label = Suíte 2 - Banheiro
+panorama_FAFEBC9D_F054_E10F_41C7_1C013E935287.label = Suíte 2_
+panorama_FAFEE520_F054_E335_41E7_4C3AE5DE5361.label = Suíte 3
+panorama_FAFE61A7_F054_A33B_41CA_D2844FF9B885.label = Varanda Espaço Gourmet
+video_E00E1677_F0ED_E16F_41D0_19FAD9BCD0F9.label = vangogh
+
+### Video
+videolevel_C50CC89F_F06F_AF31_41C1_8575BF808570.posterURL = media/video_E00E1677_F0ED_E16F_41D0_19FAD9BCD0F9_poster_pt.jpg
+videolevel_C50CC89F_F06F_AF31_41C1_8575BF808570.url = media/video_E00E1677_F0ED_E16F_41D0_19FAD9BCD0F9_pt.mp4
+
+### Video Subtitles
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Van Gogh
